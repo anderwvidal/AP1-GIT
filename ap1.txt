@@ -1,3 +1,6 @@
 INICIANDO REPOSITORIO
 
-Estou na feature1
+Estou na feature2
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim fugiat, illum sapiente ea officia velit
+aliquid explicabo incidunt magnam unde ducimus facilis voluptate quisquam iure hic adipisci molestiae corrupti debitis.
