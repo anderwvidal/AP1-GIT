@@ -1,2 +1,17 @@
 INICIANDO REPOSITORIO
 
+
+
+
+
+
+
+
+
+
+
+
+
+Usando code . no gitbash
+
+p/ alterar o arquivo
