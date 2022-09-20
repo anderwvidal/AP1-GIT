@@ -15,3 +15,8 @@ Socorro!
 Usando code . no gitbash
 
 p/ alterar o arquivo
+
+
+commit 1 manu
+
+commit 2 manu
