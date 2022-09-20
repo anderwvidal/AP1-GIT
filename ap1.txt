@@ -5,13 +5,13 @@ INICIANDO REPOSITORIO
 
 
 
-
+Alterando linha 8
 Socorro!
 
 
 
 
 
-Usando code . no gitbash
+Usando code . no gitbash        
 
 p/ alterar o arquivo
